@@ -4,6 +4,7 @@
 1. Node.js LTS (https://nodejs.org/en)
 
 2. ngrok (https://ngrok.com/downloads/windows)
+
 Extract the zip and place the ngrox.exe into C:\ngrox and open terminal from this folder.
 You need to create an account on ngrok and get you authtoken. There will be authtoken and also a command for configuring your auth token "ngrok config add-authtoken YOUR_TOKEN".
 In the terminal run "ngrok.exe config add-authtoken YOUR_TOKEN_HERE"
