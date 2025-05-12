@@ -15,6 +15,7 @@ In the terminal run "ngrok.exe config add-authtoken YOUR_TOKEN_HERE"
 In the same terminal run "python server.py". You will see output like "Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)"
 
 2. For running ngrok you have two options:
+
 2.1 You can run from the folder C:\ngrok
 Open terminal from C:\ngrok (where ngrox.exe is located) and run "ngrok http 5000"
 
