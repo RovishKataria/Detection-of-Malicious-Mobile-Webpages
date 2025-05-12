@@ -16,10 +16,10 @@ In the same terminal run "python server.py". You will see output like "Running o
 
 2. For running ngrok you have two options:
 
-2.1 You can run from the folder C:\ngrok
+  2.1 You can run from the folder C:\ngrok
 Open terminal from C:\ngrok (where ngrox.exe is located) and run "ngrok http 5000"
 
-2.2 You can add ngrok to you PATH (Recommended)
+  2.2 You can add ngrok to you PATH (Recommended)
 Search "Environment Variables" in the Start menu
 Open "Edit the system environment variables"
 Click Environment Variables
